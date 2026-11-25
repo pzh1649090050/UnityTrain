@@ -1,0 +1,1 @@
+{"name":"Training.Editor","references":["Training.Runtime","Unity.ugui","Cinemachine","Unity.Timeline"],"includePlatforms":["Editor"]}

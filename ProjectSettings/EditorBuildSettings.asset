@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Training/Scenes/00_Welcome.unity
+    guid: 9166a418f47a8b746aae0457aebec20f
+  - enabled: 1
+    path: Assets/Training/Scenes/01_MachineRoom.unity
+    guid: 917bdeeb1641aa14598d2352b492c268
+  - enabled: 1
+    path: Assets/Training/Scenes/02_CinematicsLab.unity
+    guid: 8e15200ed611c824e8e57c6c389a035d
+  - enabled: 1
+    path: Assets/Training/Scenes/03_FanTraining.unity
+    guid: b05bcce3e4173ee47b1d67540a2b2720
+  m_configObjects: {}

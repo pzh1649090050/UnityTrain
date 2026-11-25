@@ -1,0 +1,1 @@
+{"name":"Training.Tests","references":["Training.Runtime","Training.Editor","Cinemachine","Unity.Timeline"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
